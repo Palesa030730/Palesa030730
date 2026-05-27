@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Palesa 👋
 
-<!--
-**Palesa030730/Palesa030730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at Tshwane University of Technology (TUT)
 
-Here are some ideas to get you started:
+💻 Passionate about:
+- Java Development
+- Web Development
+- JSP & Servlets
+- Database Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+- Git & GitHub
+- Java EE
+- SQL
+- Software Engineering
+
+🚀 Goal:
+To become a skilled software developer and gain industry experience through projects and WIL opportunities.
+
+## Technologies & Tools
+- Java
+- HTML
+- CSS
+- JSP
+- Servlets
+- MySQL
+- NetBeans
+- GitHub
