@@ -5,6 +5,7 @@
 💻 Passionate about:
 - Java Development
 - Web Development
+- Software Development
 - JSP & Servlets
 - Database Systems
 
@@ -12,7 +13,7 @@
 - Git & GitHub
 - Java EE
 - SQL
-- Software Engineering
+- Python
 
 🚀 Goal:
 To become a skilled software developer and gain industry experience through projects and WIL opportunities.
