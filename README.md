@@ -26,4 +26,5 @@ To become a skilled software developer and gain industry experience through proj
 - Servlets
 - MySQL
 - NetBeans
+- Visual Studio Code
 - GitHub
